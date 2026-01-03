@@ -1,0 +1,12 @@
+## Interface: 70300
+## Title: New Year's Gifts Uwow
+## Notes: Помощник по поиску новогодних подарков
+## Author: Makar_YoYo
+## Version: 1.0
+## SavedVariables: NYGiftsUwowDB
+
+Core.lua
+MapIdTables.lua
+main.lua
+GUI.lua
+MinimapButton.lua
